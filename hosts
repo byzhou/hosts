@@ -1,0 +1,119 @@
+# dns sink list
+# ===========================
+
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+
+127.0.0.1 boyou.home.local
+
+# ===========================
+
+0.0.0.0 adservice.google.co.in
+0.0.0.0 adservice.google.com.vn
+0.0.0.0 fgoogle.com
+0.0.0.0 www.fgoogle.com
+0.0.0.0 adservice.google.be
+0.0.0.0 marketingplatform.google.com
+0.0.0.0 smartlock.google.com
+0.0.0.0 bot2.googlerenewals.net
+0.0.0.0 linux2.googlerenewals.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 cdn.googletoolservices.com
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
+0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
+0.0.0.0 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
+0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googlecm.hit.gemius.pl
+# [google-analytics.com]
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+# [google.com]
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 s0-2mdn-net.l.google.com
+# [googleadservices.com]
+0.0.0.0 googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 www.googleadservices.com
+# [googleadsserving.cn]
+0.0.0.0 static.googleadsserving.cn
+# [googlesyndication.com]
+0.0.0.0 googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+# [googleusercontent.com]
+0.0.0.0 displayads-formats.googleusercontent.com
+0.0.0.0 google-docs.org
+0.0.0.0 www-google.nl
+0.0.0.0 www.google-docs.org
+0.0.0.0 www.googlew.com
+0.0.0.0 www.www-google.nl
+0.0.0.0 www.wwwgoogles.com
+0.0.0.0 wwwgoogles.com
+0.0.0.0 13453765871837679316.googlegroups.com
+0.0.0.0 google-ads.hara.vn
+0.0.0.0 google-shopping-v2.sapoapps.vn
+0.0.0.0 google-shopping.sapoapps.vn
+0.0.0.0 googleshopping.sapoapps.vn
+0.0.0.0 google.periodismosinafan.com
+0.0.0.0 googleadclicks.com
+0.0.0.0 googleappsheet.com
+0.0.0.0 www.google.periodismosinafan.com
+0.0.0.0 www.googleadclicks.com
+0.0.0.0 www.googleappsheet.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+# 0.0.0.0 redirector.googlevideo.com #[affects video playback]
+0.0.0.0 analytics-api-samples.googlecode.com
+# 0.0.0.0 www.googletagmanager.com #[affects ASUS]
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 www.doubleclickbygoogle.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.googletagservices.com
+# killedbygoogle.com
+#74.125.127.105	g        # google.com
+#0.0.0.0 google-analytics.com			# breaks some sites
+#0.0.0.0 ssl.google-analytics.com
+#0.0.0.0 www.google-analytics.l.google.com
+#0.0.0.0 www.google-analytics.com		# breaks some sites
+#0.0.0.0 www.googletagservices.com		#interferes with techrepublic
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 googletagservices.com
+0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.co.za
+0.0.0.0 adservice.google.com.au
+0.0.0.0 adservice.google.cz
+0.0.0.0 adservice.google.nl
+0.0.0.0 affiliate.googleusercontent.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 drm-google-analtyic.com
+0.0.0.0 googledrive-en.com
+0.0.0.0 static-google-analtyic.com
+0.0.0.0 adservice.google.co.jp
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 adservice.google.com.mt
+0.0.0.0 analytics.google.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com1
+000.0.0.0 googleanalytics.com
+30.0.0.0 googletagmanager.com7
+980.0.0.0 mail-ads.google.comk
+100.0.0.0 pagead.l.google.com0
+30.0.0.0 partnerad.l.google.com7
+0.0.0.0 wintricksbanner.googlepages.com
+0.0.0.0 www-google-analytics.l.google.com
